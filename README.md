@@ -5,6 +5,8 @@
 ## Atom
 
 - https://github.com/JoelBesada/activate-power-mode
+- https://atom.io/packages/bedlam
+
 
 ## Brackets
 
